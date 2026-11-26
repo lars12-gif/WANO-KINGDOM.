@@ -1,0 +1,18 @@
+{
+  "name": "WANO KINGDOM",
+  "short_name": "WANO KINGDOM",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0810",
+  "theme_color": "#100b19",
+  "description": "أدوات WANO KINGDOM",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
